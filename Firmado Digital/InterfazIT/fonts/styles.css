@@ -1,0 +1,31 @@
+﻿body {
+    background-color: #faeee9;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+form input {
+    width: 260px;
+    height: 30px;
+    background-color: #f5d69b;
+    border: none;
+}
+
+    form input:hover {
+        background-color: #45241c;
+        color: #faeee9;
+        transition: all ease 0.5s;
+    }
+
+#FileUpload1 div input {
+    height: 30px;
+    padding: 10px;
+    background-color: #f5d69b;
+}
+
+.upload {
+    background-color: #f5d69b;
+}
